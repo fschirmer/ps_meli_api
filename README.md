@@ -1,6 +1,6 @@
 # Meli
 
-## Challenge Engineer - Primera Parte - SQL
+## Challenge Engineer - Segunda Parte - SQL
 
 Abaixo descrevo o processo realizado para solucionar esta etapa do Challenge.
 
