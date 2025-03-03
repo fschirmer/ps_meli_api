@@ -15,8 +15,3 @@ Abaixo descrevo o processo realizado para solucionar esta etapa do Challenge.
 3. Escrever os resultados
 
    Os campos que considerei importantes para a análise foram: id, title ,price, condition, category_id, seller_id, currency_id e attributes.value_name. O campo attributes.value_name somente extrai os dados onde o attributes.id é igual a RAM_MEMORY e MODEL. Os resultados foram salvos no arquivo [produtos.csv](api/produtos.csv)
-
-
-    
-    
-https://docs.google.com/presentation/d/1GbLPwOG3d5BOqqlZnGjATcRd9tjcHffdMyvqAJOyNEc/edit?usp=sharing
