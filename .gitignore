@@ -31,4 +31,4 @@ build/
 .eggs/
 /analise/.ipynb_checkpoints/
 /analise/ps_meli_api_analise.ipynb
-/api/api_nao_gostei.py
+api/.ipynb_checkpoints/
